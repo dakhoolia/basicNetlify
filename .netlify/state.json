@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Gjøvik",
+			"country": {
+				"code": "NO",
+				"name": "Norway"
+			},
+			"subdivision": {
+				"code": "34",
+				"name": "Innlandet"
+			},
+			"timezone": "Europe/Oslo",
+			"latitude": 60.8013,
+			"longitude": 10.7037
+		},
+		"timestamp": 1717538447846
+	}
+}
